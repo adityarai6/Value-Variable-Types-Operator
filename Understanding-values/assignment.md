@@ -30,3 +30,4 @@
 
 11. What is the difference between primitive and non-primitive values.
 `Answer`- the main difference between primitive and non-primitive values lies in how they stored.
+pwd
